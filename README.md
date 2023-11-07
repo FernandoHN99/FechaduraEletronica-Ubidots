@@ -36,13 +36,13 @@ Essas instruções permitirão que você consiga realizar uma cópia desta parte
 
 <h2>📦 Implementação</h2>
 
-1. Implementação da fechadura Eletrônica: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico)
+1. Implementação da fechadura Eletrônica: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico).
 
-2. Implementação da fechadura Eletrônica com node-RED: [🔗 Fechadura Eletrônica com Node-RED](https://github.com/FernandoHN99/FechaduraEletronica-Node-Red)
+2. Implementação da fechadura Eletrônica com node-RED: [🔗 Fechadura Eletrônica com Node-RED](https://github.com/FernandoHN99/FechaduraEletronica-Node-Red).
 
 3. Retirar todo conteúdo existente do node-RED e importar o arquivo flows.json contido neste repositório. 
 
-4. Acessar o link abaixo para utilizar as funcionalidades mencionadas com Ubidots: [🔗 Ubidots: Gerenciamento da Fechadura Eletrônica](https://stem.ubidots.com/app/dashboards/public/dashboard/5B-s1GC0hiH_6DsZ1lrEimGIbri_mtxs5O9I-VE5ctM)
+4. Acessar o link abaixo para utilizar as funcionalidades mencionadas com Ubidots: [🔗 Ubidots: Gerenciamento da Fechadura Eletrônica](https://stem.ubidots.com/app/dashboards/public/dashboard/5B-s1GC0hiH_6DsZ1lrEimGIbri_mtxs5O9I-VE5ctM).
 
 <h2>✒️ Autores</h2>
 
