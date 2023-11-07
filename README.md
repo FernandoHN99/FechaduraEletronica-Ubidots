@@ -3,10 +3,6 @@
 Este é um projeto de uma fechadura eletrônica voltado para hotéis. Esta etapa é focada no gerenciamento de estado da fechadura no qual seu uso é destinado ao usuário final, o hóspede.
 O guia para construção das etapas prévias do desenvolvimento desta fechadura eletrônica além de suas funcionalidades e códigos-fonte estão localizados em: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico) e [🔗 Fechadura Eletrônica com Node-RED](https://github.com/FernandoHN99/FechaduraEletronica-Node-Red).Portanto para uma correta implementação nesta fase do gerenciamento é necessário ter seguido todos os passos prévios mencionados.
 
-> **Observação:** Etapa 3 de 3.
-
-
-
 https://github.com/FernandoHN99/FechaduraEletronica-Ubidots/assets/86134291/c194f762-9c88-404e-a752-0842e0327a94
 
 
