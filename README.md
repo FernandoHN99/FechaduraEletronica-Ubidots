@@ -3,7 +3,7 @@
 Este é um projeto de uma fechadura eletrônica voltada para hotéis, focado em seu gerenciamento de estado cujo seu uso é destinado ao usuário final, o hóspede.
 O guia para construção das etapas prévias do desenvolvimento desta fechadura eletrônica além de suas funcionalidades e códigos-fonte estão localizados em respectivamenet em: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico) e [🔗 Fechadura Eletrônica com Node-RED](https://github.com/FernandoHN99/FechaduraEletronica-Node-Red).Portanto para uma correta implementação nesta fase do gerenciamento é necessário ter seguido todos os passos prévios mencionados.
 
-https://github.com/FernandoHN99/FechaduraEletronica-Node-Red/assets/86134291/a0a0fde2-0bac-45c4-be40-ba9766ca2e57
+https://github.com/FernandoHN99/FechaduraEletronica-Ubidots/assets/86134291/fac5b2c2-cd02-4eb6-b169-5aa1afbc3035
 
 <h2>⚙️ Funcionalidades do Sistema</h2>
 
