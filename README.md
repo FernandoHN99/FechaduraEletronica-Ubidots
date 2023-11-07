@@ -40,7 +40,7 @@ Essas instruções permitirão que você consiga realizar uma cópia desta parte
 
 3. Retirar todo conteúdo existente do node-RED e importar o arquivo flows.json contido neste repositório. 
 
-4. Utilizar o link abaixo para acessar as funcionalidades mencionadas deste projeto: [🔗 Ubidots: Gerenciamento da Fechadura Eletrônica](https://stem.ubidots.com/app/dashboards/public/dashboard/5B-s1GC0hiH_6DsZ1lrEimGIbri_mtxs5O9I-VE5ctM)
+4. Acessar o link abaixo para utilizar as funcionalidades mencionadas com Ubidots: [🔗 Ubidots: Gerenciamento da Fechadura Eletrônica](https://stem.ubidots.com/app/dashboards/public/dashboard/5B-s1GC0hiH_6DsZ1lrEimGIbri_mtxs5O9I-VE5ctM)
 
 <h2>✒️ Autores</h2>
 
