@@ -26,7 +26,7 @@ Essas instruções permitirão que você consiga realizar uma cópia desta parte
 <ul>
   <li>
     <h3 id="secao-diagrama-blocos">Diagrama De Blocos</h3>
-    <img width="1116" alt="DiagramaDeBlocos" src="https://github.com/FernandoHN99/FechaduraEletronica-Node-Red/assets/86134291/e87a5274-b0b3-4bff-9908-8ec7d0853c8c">
+    <img width="1116" alt="DiagramaDeBlocos" src="https://github.com/FernandoHN99/FechaduraEletronica-Ubidots/assets/86134291/9f50b71f-8f84-4c81-827c-37c8a642973f">
   </li>
 </ul>
 
