@@ -34,7 +34,7 @@ Essas instruções permitirão que você consiga realizar uma cópia desta parte
   </li>
 </ul>
 
-> **Observação:** Para um maior entendimento dos periféricos utilizados acesse o [🔗 Projeto da Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico) e [🔗 Fechadura Eletrônica com Node-RED](https://github.com/FernandoHN99/FechaduraEletronica-Node-Red).
+> **Observação:** Para um maior entendimento dos periféricos utilizados acesse o [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico) e [🔗 Fechadura Eletrônica com Node-RED](https://github.com/FernandoHN99/FechaduraEletronica-Node-Red).
 
 <h2>📦 Implementação</h2>
 
