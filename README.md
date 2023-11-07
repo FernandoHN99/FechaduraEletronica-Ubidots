@@ -30,7 +30,7 @@ Essas instruções permitirão que você consiga realizar uma cópia desta parte
 <ul>
   <li>
     <h3 id="secao-diagrama-blocos">Diagrama De Blocos</h3>
-    <img width="1116" alt="DiagramaDeBlocos" src="https://github.com/FernandoHN99/FechaduraEletronica-Ubidots/assets/86134291/9f50b71f-8f84-4c81-827c-37c8a642973f">
+    <img width="1116" alt="DiagramaDeBlocos" src="https://github.com/FernandoHN99/FechaduraEletronica-Ubidots/assets/86134291/cf812915-9362-4ec4-8d34-646e2f0fe609">
   </li>
 </ul>
 
