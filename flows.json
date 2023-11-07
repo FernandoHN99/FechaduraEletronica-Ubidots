@@ -1,0 +1,3296 @@
+[
+    {
+        "id": "6cbf86e7e5ed9987",
+        "type": "tab",
+        "label": "Quarto 001",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "254c1222fe786444",
+        "type": "group",
+        "z": "6cbf86e7e5ed9987",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b36f6c764f67f687",
+            "9d880ce224917216",
+            "5df46f61b798c578",
+            "4331e941644a619e",
+            "bae3e8dd629afee8",
+            "9c4ca1292e45e140",
+            "9768aa6d980a754c",
+            "c763313caf9b6810",
+            "878906631ea59664",
+            "7f930cb8d1e47e1d",
+            "249b3c740a6de961"
+        ],
+        "x": 1094,
+        "y": 1279,
+        "w": 812,
+        "h": 242
+    },
+    {
+        "id": "cdf5f42f535b252b",
+        "type": "group",
+        "z": "6cbf86e7e5ed9987",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "39590cfc4a7cbe3a",
+            "a485cec9b93b2ca8",
+            "0845bfa14943ea6b",
+            "314ef05113c9b52f",
+            "cda5274dad0e8450",
+            "b00793ce517e80ea",
+            "fead287da34ed91c",
+            "dc40f03bd06546c9"
+        ],
+        "x": 34,
+        "y": 39,
+        "w": 932,
+        "h": 202
+    },
+    {
+        "id": "24a6f706fad0aacc",
+        "type": "group",
+        "z": "6cbf86e7e5ed9987",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "649dda8bb1f42a90",
+            "fa571ad9f2695aab",
+            "beb90f928e04ee25",
+            "6940253a27d4dcce",
+            "2c1875031b4a4fc7",
+            "94f4b6a18097a311",
+            "ea983762db349e13"
+        ],
+        "x": 34,
+        "y": 279,
+        "w": 712,
+        "h": 242
+    },
+    {
+        "id": "4789fd5d5ae31d09",
+        "type": "group",
+        "z": "6cbf86e7e5ed9987",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5a7f28688dc1967d",
+            "cc73146865e5d947",
+            "6862820cb86eca59",
+            "7d240a9a62fa41e5",
+            "bbed8e064b3be11d",
+            "6398b8862a302056",
+            "af746dd850403328"
+        ],
+        "x": 34,
+        "y": 559,
+        "w": 812,
+        "h": 162
+    },
+    {
+        "id": "cacce4e44e6119c5",
+        "type": "group",
+        "z": "6cbf86e7e5ed9987",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c828cc25f95efdec",
+            "d2c2783795d33966",
+            "b8307db28e3666d2",
+            "d337efdd4cbb3ebc",
+            "5c469b150f678106",
+            "2797ace110819d99",
+            "2a4d29df6643c45c",
+            "86dd6eee7e1c9a5a",
+            "b34a84d4d8128a96",
+            "2931a9cf9d029e51",
+            "a767b9997fd8039e",
+            "bb8443a54a8c5ee4",
+            "c219be0e0250104c",
+            "941b9e090c73bcb0",
+            "b0d3cca1514b09a2",
+            "8a866a400fb55289",
+            "5784bb92ed7928ae",
+            "ecc5e4ff90e2c2d8",
+            "0f84c0eb9a184c2b",
+            "c51da3fc88f7f8a0",
+            "d1eb48d898d8e686",
+            "d530bf66483f21fb",
+            "22d7c30ebf217b5f",
+            "b33844ad9a66bc32",
+            "8f4bc153d75654f3",
+            "c271bc9a185a023e",
+            "9d8aa7fcbb9b6747",
+            "c58bed48d1b59861",
+            "c07e0f56fcbd20ad",
+            "b6433afe4498a4da",
+            "119b84a0d2d71f31",
+            "ebb88433cfaccd1a"
+        ],
+        "x": 34,
+        "y": 759,
+        "w": 1892,
+        "h": 502
+    },
+    {
+        "id": "743ba4ba4087e42f",
+        "type": "group",
+        "z": "6cbf86e7e5ed9987",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "465aca76de4c32a3",
+            "c7236dbdbf5da1e7",
+            "875f09eb0d723408",
+            "a8429c617bdf1ff0",
+            "23e98e008ac96768",
+            "41784f67acb87864",
+            "6d31659c78373710",
+            "315a94eb92b83294",
+            "128d196e7a2c59c0",
+            "f0aa9a8312fc073d",
+            "a0e5cd9ee04ebb7d",
+            "39cee71c65753b1c",
+            "2f250fc02e770a78",
+            "d7ef69ead33bbe83",
+            "fcc20429815f19f5",
+            "4443d4d10c2578a7",
+            "5e94863c9da2b3ab",
+            "a71f06a446ad1ac0",
+            "2285f276b0202fa2",
+            "0e25b8269d1d6ed6",
+            "b7b1c600c88f52a6",
+            "1523853a5189a066",
+            "529af6313a66613a",
+            "970700da753644ca",
+            "59dc8987142ed2c8",
+            "b3ce9c9436af134b"
+        ],
+        "x": 34,
+        "y": 1539,
+        "w": 1892,
+        "h": 422
+    },
+    {
+        "id": "9f0287343a753e5f",
+        "type": "group",
+        "z": "6cbf86e7e5ed9987",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b8b2f1310a7d6bb4",
+            "bf86d38985f2f87e",
+            "77351a4baaaa56cb",
+            "5a0e79fc43d1a5ae",
+            "b923824b01420781",
+            "f8c8473de3bfe744",
+            "d049dcc8f2bd83bc"
+        ],
+        "x": 54,
+        "y": 1999,
+        "w": 712,
+        "h": 222
+    },
+    {
+        "id": "de63670762df6635",
+        "type": "group",
+        "z": "6cbf86e7e5ed9987",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e0b2d20c2cf08271",
+            "96cc7e259620a337",
+            "d19ba5bab6a456c8"
+        ],
+        "x": 48,
+        "y": 2259,
+        "w": 964,
+        "h": 568
+    },
+    {
+        "id": "cb43884c90f26473",
+        "type": "group",
+        "z": "6cbf86e7e5ed9987",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7ddaf3f16ebab346",
+            "1b78dc517caaa949",
+            "59c5f58a48eb0748",
+            "cfb4be3c13433727",
+            "ea9a1dc78362fd64",
+            "eb373f01991d1178",
+            "726ab5164bc67774"
+        ],
+        "x": 54,
+        "y": 2879,
+        "w": 832,
+        "h": 222
+    },
+    {
+        "id": "96cc7e259620a337",
+        "type": "group",
+        "z": "6cbf86e7e5ed9987",
+        "g": "de63670762df6635",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6c5f4bf9cd81a56d",
+            "3afa011321376e97",
+            "3d7b4da0ab6a97dd",
+            "90b547b215cc99e8",
+            "25ceb8a358772fd1",
+            "83febe49b4507792",
+            "93579af329fd7253"
+        ],
+        "x": 74,
+        "y": 2619,
+        "w": 912,
+        "h": 182
+    },
+    {
+        "id": "d19ba5bab6a456c8",
+        "type": "group",
+        "z": "6cbf86e7e5ed9987",
+        "g": "de63670762df6635",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "828c24d45e1f1816",
+            "78d941e44fe5e1d9",
+            "ada76f90cee42948",
+            "c75a2a606888c06c",
+            "7e1348bfa5ec6302",
+            "d13e85e3cdd36cf4",
+            "4658226e59fe0610",
+            "be40a5b47cd743d9"
+        ],
+        "x": 174,
+        "y": 2339,
+        "w": 712,
+        "h": 242
+    },
+    {
+        "id": "39590cfc4a7cbe3a",
+        "type": "ui_button",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cdf5f42f535b252b",
+        "name": "Btn access",
+        "group": "c9193d61722f1ef3",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Abrir Porta",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "Digite sua senha",
+        "payloadType": "str",
+        "topic": "payload",
+        "topicType": "msg",
+        "x": 130,
+        "y": 180,
+        "wires": [
+            [
+                "a485cec9b93b2ca8"
+            ]
+        ]
+    },
+    {
+        "id": "a485cec9b93b2ca8",
+        "type": "ui_toast",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cdf5f42f535b252b",
+        "position": "prompt",
+        "displayTime": "1",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "Liberação de Acesso",
+        "name": "Input senha",
+        "x": 310,
+        "y": 180,
+        "wires": [
+            [
+                "314ef05113c9b52f"
+            ]
+        ]
+    },
+    {
+        "id": "0845bfa14943ea6b",
+        "type": "serial out",
+        "z": "6cbf86e7e5ed9987",
+        "d": true,
+        "g": "cdf5f42f535b252b",
+        "name": "Pico in",
+        "serial": "d990acd935fa5ee1",
+        "x": 770,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "314ef05113c9b52f",
+        "type": "switch",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cdf5f42f535b252b",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "admin",
+                "vt": "str"
+            },
+            {
+                "t": "neq",
+                "v": "Cancel",
+                "vt": "str"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 180,
+        "wires": [
+            [
+                "cda5274dad0e8450"
+            ],
+            [
+                "fead287da34ed91c"
+            ]
+        ]
+    },
+    {
+        "id": "cda5274dad0e8450",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cdf5f42f535b252b",
+        "name": "Set open door msg",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"tipo\":\"door\",\"valor\":\"true\"}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 610,
+        "y": 160,
+        "wires": [
+            [
+                "0845bfa14943ea6b"
+            ]
+        ]
+    },
+    {
+        "id": "b00793ce517e80ea",
+        "type": "ui_toast",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cdf5f42f535b252b",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Msg not auth",
+        "x": 870,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fead287da34ed91c",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cdf5f42f535b252b",
+        "name": "Set open door msg not auth",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Acesso negado",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 200,
+        "wires": [
+            [
+                "b00793ce517e80ea"
+            ]
+        ]
+    },
+    {
+        "id": "dc40f03bd06546c9",
+        "type": "comment",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cdf5f42f535b252b",
+        "name": "Fluxo Abrir Porta",
+        "info": "",
+        "x": 460,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "649dda8bb1f42a90",
+        "type": "ui_button",
+        "z": "6cbf86e7e5ed9987",
+        "g": "24a6f706fad0aacc",
+        "name": "Btn Gerenciar Cartoes",
+        "group": "c9193d61722f1ef3",
+        "order": 2,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "Autorizar/ Desautorizar Cartão",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "payload",
+        "topicType": "str",
+        "x": 160,
+        "y": 480,
+        "wires": [
+            [
+                "2c1875031b4a4fc7"
+            ]
+        ]
+    },
+    {
+        "id": "fa571ad9f2695aab",
+        "type": "ui_dropdown",
+        "z": "6cbf86e7e5ed9987",
+        "g": "24a6f706fad0aacc",
+        "name": "Dropdown cartoes",
+        "label": "",
+        "tooltip": "",
+        "place": "Selecione uma Opção",
+        "group": "c9193d61722f1ef3",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Cartao 01 - 296151778",
+                "value": "296151778",
+                "type": "str"
+            },
+            {
+                "label": "Cartao 02 - 2042233364",
+                "value": "2042233364",
+                "type": "str"
+            },
+            {
+                "label": "T-2042233364",
+                "value": "T-2042233364",
+                "type": "str"
+            },
+            {
+                "label": "TT-2042233364",
+                "value": "TT-2042233364",
+                "type": "str"
+            },
+            {
+                "label": "1111111",
+                "value": "11111",
+                "type": "str"
+            },
+            {
+                "label": "22222222",
+                "value": "2222222",
+                "type": "str"
+            },
+            {
+                "label": "33333333",
+                "value": "3333333",
+                "type": "str"
+            },
+            {
+                "label": "444444444444",
+                "value": "44444444444",
+                "type": "str"
+            },
+            {
+                "label": "55555555555",
+                "value": "55555555555",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "cartaoSelecioando",
+        "topicType": "str",
+        "className": "",
+        "x": 190,
+        "y": 400,
+        "wires": [
+            [
+                "beb90f928e04ee25"
+            ]
+        ]
+    },
+    {
+        "id": "beb90f928e04ee25",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "24a6f706fad0aacc",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "dropdown",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg",
+                "dc": true
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 410,
+        "y": 400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6940253a27d4dcce",
+        "type": "serial out",
+        "z": "6cbf86e7e5ed9987",
+        "d": true,
+        "g": "24a6f706fad0aacc",
+        "name": "Pico in",
+        "serial": "d990acd935fa5ee1",
+        "x": 670,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "2c1875031b4a4fc7",
+        "type": "switch",
+        "z": "6cbf86e7e5ed9987",
+        "g": "24a6f706fad0aacc",
+        "name": "",
+        "property": "dropdown",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "nnull"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 1,
+        "x": 330,
+        "y": 480,
+        "wires": [
+            [
+                "94f4b6a18097a311"
+            ]
+        ]
+    },
+    {
+        "id": "94f4b6a18097a311",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "24a6f706fad0aacc",
+        "name": "Set register card msg",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"tipo\": \"card\", \"valor\": $flowContext('dropdown')\t}\t",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 500,
+        "y": 480,
+        "wires": [
+            [
+                "6940253a27d4dcce"
+            ]
+        ]
+    },
+    {
+        "id": "ea983762db349e13",
+        "type": "comment",
+        "z": "6cbf86e7e5ed9987",
+        "g": "24a6f706fad0aacc",
+        "name": "Fluxo Cadastrar Cartões",
+        "info": "",
+        "x": 390,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "c828cc25f95efdec",
+        "type": "serial in",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Pico out",
+        "serial": "d990acd935fa5ee1",
+        "x": 140,
+        "y": 1040,
+        "wires": [
+            [
+                "2797ace110819d99",
+                "119b84a0d2d71f31"
+            ]
+        ]
+    },
+    {
+        "id": "d2c2783795d33966",
+        "type": "ui_toast",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "Liberação de Acesso",
+        "name": "Print msg",
+        "x": 940,
+        "y": 1040,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b8307db28e3666d2",
+        "type": "switch",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Switch retorno msg",
+        "property": "payload.tipo",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "reset",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "card",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "checkout",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "door",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "intrusion",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "control_door",
+                "vt": "str"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 6,
+        "x": 490,
+        "y": 1040,
+        "wires": [
+            [
+                "d530bf66483f21fb"
+            ],
+            [
+                "2a4d29df6643c45c"
+            ],
+            [
+                "9d8aa7fcbb9b6747"
+            ],
+            [
+                "d337efdd4cbb3ebc"
+            ],
+            [
+                "2931a9cf9d029e51"
+            ],
+            [
+                "b0d3cca1514b09a2"
+            ]
+        ]
+    },
+    {
+        "id": "d337efdd4cbb3ebc",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Set msg porta liberada",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Acesso liberado",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 740,
+        "y": 1060,
+        "wires": [
+            [
+                "d2c2783795d33966",
+                "b6433afe4498a4da"
+            ]
+        ]
+    },
+    {
+        "id": "5c469b150f678106",
+        "type": "comment",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Fluxos de Retorno Pico",
+        "info": "",
+        "x": 860,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "2797ace110819d99",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Func trata json",
+        "func": "var jsonString = msg.payload.replace(/'/g, '\"');\nmsg.payload = JSON.parse(jsonString);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 300,
+        "y": 1040,
+        "wires": [
+            [
+                "b8307db28e3666d2"
+            ]
+        ]
+    },
+    {
+        "id": "2a4d29df6643c45c",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Set msg card autorizacao",
+        "func": "var cardSelected = flow.get('dropdown')\nvar listCardsAllowed = msg.payload.list_cards;\nif (listCardsAllowed.includes(cardSelected) || msg.payload.init == 'true'){\n    msg.payload = 'Cartão cadastrado'\n} else{\n    msg.payload = 'Cartão descadastrado'\n}\nflow.set('cardList', listCardsAllowed);\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 980,
+        "wires": [
+            [
+                "86dd6eee7e1c9a5a"
+            ]
+        ]
+    },
+    {
+        "id": "86dd6eee7e1c9a5a",
+        "type": "ui_toast",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "Cadastro de Cartão",
+        "name": "Print msg",
+        "x": 940,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b34a84d4d8128a96",
+        "type": "ui_template",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "group": "41aee0a47a335a5c",
+        "name": "Template cards autorizacao",
+        "order": 1,
+        "width": 9,
+        "height": 2,
+        "format": "<div ng-if=\"msg.cardList.length > 0\">\n    <ul class=\"inline-list\" style=\"padding: 0; list-style: none; margin-top: -3px\">\n        <li ng-repeat=\"cartao in msg.cardList\" ng-bind-html=\"'&#8226; ' + cartao\"\n            style=\"display: inline-block; margin-right: 15px; margin-bottom: 15px; font-size: 17px;\"></li>\n    </ul>\n</div>\n<div ng-if=\"msg.cardList.length === 0\">\n    <br>\n    <p style=\"font-size: 20px;\">Nenhum Cartão Autorizado</p>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1560,
+        "y": 820,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2931a9cf9d029e51",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Func intrusion",
+        "func": "var quartoIntrusion = flow.get('intrusion');\nif (quartoIntrusion){\n    if (msg.payload.status == 'ok'){\n        flow.set('intrusion', false)\n        msg.payload = 'Problema Resolvido !';\n    }else{\n        msg.payload = 'Invasão no quarto 001 !';\n    }\n    \n}else if(!quartoIntrusion){\n    flow.set('intrusion', true)\n    msg.payload = 'Invasão no quarto 001 !';\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 1120,
+        "wires": [
+            [
+                "ecc5e4ff90e2c2d8"
+            ]
+        ]
+    },
+    {
+        "id": "a767b9997fd8039e",
+        "type": "ui_toast",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "ALERTA",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "INVASÃO",
+        "name": "Print msg",
+        "x": 1260,
+        "y": 1100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bb8443a54a8c5ee4",
+        "type": "switch",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Switch intrusion msg",
+        "property": "intrusion",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1100,
+        "y": 1120,
+        "wires": [
+            [
+                "a767b9997fd8039e"
+            ],
+            [
+                "5784bb92ed7928ae"
+            ]
+        ]
+    },
+    {
+        "id": "c219be0e0250104c",
+        "type": "switch",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Switch opened door msg",
+        "property": "allowFlow",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "warning",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "reset",
+                "vt": "str"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 950,
+        "y": 1180,
+        "wires": [
+            [
+                "941b9e090c73bcb0"
+            ],
+            [
+                "8a866a400fb55289",
+                "5df46f61b798c578"
+            ]
+        ]
+    },
+    {
+        "id": "941b9e090c73bcb0",
+        "type": "delay",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Delay opened door",
+        "pauseType": "delayv",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1190,
+        "y": 1180,
+        "wires": [
+            [
+                "0f84c0eb9a184c2b"
+            ]
+        ]
+    },
+    {
+        "id": "b0d3cca1514b09a2",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Func opened door",
+        "func": "if (msg.payload.status == 'opened') { // msg porta aberta\n    if (!flow.get('timeDoorOpened')) {      //Primeira vez porta foi aberta\n        flow.set('timeDoorOpened', new Date());\n        flow.set('allowNextWarning', false);\n        msg.delay = 10000;\n        msg.allowFlow = 'warning'\n    } \n    else if (flow.get('allowNextWarning')) { // milesima vez porta foi aberta\n        flow.set('allowNextWarning', false);\n        msg.delay = 5000;\n        msg.allowFlow = 'warning'\n    }else{\n        msg.allowFlow = null;\n    }\n} else if(flow.get('timeDoorOpened')){                                    // msg porta fechada\n    msg.payload = '';\n    flow.set('timeDoorOpened', null);\n    msg.allowFlow = 'reset'\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 1180,
+        "wires": [
+            [
+                "c219be0e0250104c"
+            ]
+        ]
+    },
+    {
+        "id": "8a866a400fb55289",
+        "type": "ui_toast",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Avise-me de novo em 1 min",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "Porta Aberta",
+        "name": "Print msg",
+        "x": 1580,
+        "y": 1220,
+        "wires": [
+            [
+                "c51da3fc88f7f8a0"
+            ]
+        ]
+    },
+    {
+        "id": "5784bb92ed7928ae",
+        "type": "ui_toast",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Ok",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "ALERTA DE INVASÃO",
+        "name": "Print msg",
+        "x": 1260,
+        "y": 1140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ecc5e4ff90e2c2d8",
+        "type": "delay",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "3",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": true,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 900,
+        "y": 1120,
+        "wires": [
+            [
+                "bb8443a54a8c5ee4",
+                "ebb88433cfaccd1a"
+            ]
+        ]
+    },
+    {
+        "id": "0f84c0eb9a184c2b",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Func format msg alert",
+        "func": "var duracao = new Date().getTime() - flow.get('timeDoorOpened').getTime();\n\nconst horas = Math.floor(duracao / 3600000); // 1 hora = 3600000 milissegundos\nconst minutos = Math.floor((duracao % 3600000) / 60000); // 1 minuto = 60000 milissegundos\nconst segundos = Math.floor((duracao % 60000) / 1000); // 1 segundo = 1000 milissegundos\n\nvar strDiff = `${horas}h ${minutos}min ${segundos}s`;\n\nmsg.payload = `Quarto 001: ${strDiff}`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1400,
+        "y": 1180,
+        "wires": [
+            [
+                "8a866a400fb55289"
+            ]
+        ]
+    },
+    {
+        "id": "c51da3fc88f7f8a0",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Func set allowNextWarning",
+        "func": "if(msg.payload != ''){\n    flow.set('allowNextWarning', true);\n}else{\n    flow.set('timeDoorOpened', null);\n    flow.set('allowNextWarning', false);\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1780,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5a7f28688dc1967d",
+        "type": "comment",
+        "z": "6cbf86e7e5ed9987",
+        "g": "4789fd5d5ae31d09",
+        "name": "Fluxo Reset Porta",
+        "info": "",
+        "x": 370,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "cc73146865e5d947",
+        "type": "ui_button",
+        "z": "6cbf86e7e5ed9987",
+        "g": "4789fd5d5ae31d09",
+        "name": "Btn reset porta",
+        "group": "c9193d61722f1ef3",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Resetar Porta",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "Digite sua senha",
+        "payloadType": "str",
+        "topic": "reset",
+        "topicType": "str",
+        "x": 140,
+        "y": 660,
+        "wires": [
+            [
+                "6862820cb86eca59"
+            ]
+        ]
+    },
+    {
+        "id": "6862820cb86eca59",
+        "type": "ui_toast",
+        "z": "6cbf86e7e5ed9987",
+        "g": "4789fd5d5ae31d09",
+        "position": "prompt",
+        "displayTime": "1",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "Liberação de Acesso",
+        "name": "Input senha",
+        "x": 310,
+        "y": 660,
+        "wires": [
+            [
+                "7d240a9a62fa41e5"
+            ]
+        ]
+    },
+    {
+        "id": "7d240a9a62fa41e5",
+        "type": "switch",
+        "z": "6cbf86e7e5ed9987",
+        "g": "4789fd5d5ae31d09",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "admin",
+                "vt": "str"
+            },
+            {
+                "t": "neq",
+                "v": "Cancel",
+                "vt": "str"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 660,
+        "wires": [
+            [
+                "bbed8e064b3be11d"
+            ],
+            [
+                "6398b8862a302056"
+            ]
+        ]
+    },
+    {
+        "id": "bbed8e064b3be11d",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "4789fd5d5ae31d09",
+        "name": "Set reset door msg",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"tipo\":\"reset\"}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 610,
+        "y": 640,
+        "wires": [
+            [
+                "af746dd850403328"
+            ]
+        ]
+    },
+    {
+        "id": "6398b8862a302056",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "4789fd5d5ae31d09",
+        "name": "Set reset msg not auth",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Acesso negado",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 620,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d1eb48d898d8e686",
+        "type": "ui_toast",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "Reset de porta",
+        "name": "Print msg",
+        "x": 900,
+        "y": 940,
+        "wires": [
+            [
+                "c58bed48d1b59861"
+            ]
+        ]
+    },
+    {
+        "id": "d530bf66483f21fb",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Set msg reset porta",
+        "func": "if(msg.payload.status == 'true'){\n    flow.set('cardList', msg.payload.list_cards);\n    msg.payload = 'Porta Resetada com Sucesso!';\n}else{\n    msg.payload = 'Erro'\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 940,
+        "wires": [
+            [
+                "d1eb48d898d8e686"
+            ]
+        ]
+    },
+    {
+        "id": "af746dd850403328",
+        "type": "serial out",
+        "z": "6cbf86e7e5ed9987",
+        "d": true,
+        "g": "4789fd5d5ae31d09",
+        "name": "Pico in",
+        "serial": "d990acd935fa5ee1",
+        "x": 770,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "22d7c30ebf217b5f",
+        "type": "complete",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "",
+        "scope": [
+            "2a4d29df6643c45c",
+            "d530bf66483f21fb",
+            "9d8aa7fcbb9b6747"
+        ],
+        "uncaught": false,
+        "x": 1150,
+        "y": 820,
+        "wires": [
+            [
+                "b33844ad9a66bc32"
+            ]
+        ]
+    },
+    {
+        "id": "b33844ad9a66bc32",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Set cardList values",
+        "rules": [
+            {
+                "t": "set",
+                "p": "cardList",
+                "pt": "msg",
+                "to": "cardList",
+                "tot": "flow",
+                "dc": true
+            },
+            {
+                "t": "set",
+                "p": "ubidots.topic",
+                "pt": "msg",
+                "to": "cards",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "ubidots.value",
+                "pt": "msg",
+                "to": "$count($flowContext('cardList'))",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1330,
+        "y": 820,
+        "wires": [
+            [
+                "b34a84d4d8128a96"
+            ]
+        ]
+    },
+    {
+        "id": "8f4bc153d75654f3",
+        "type": "complete",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Complete pico in",
+        "scope": [
+            "cda5274dad0e8450",
+            "94f4b6a18097a311",
+            "bbed8e064b3be11d",
+            "a71f06a446ad1ac0",
+            "b8b2f1310a7d6bb4"
+        ],
+        "uncaught": false,
+        "x": 140,
+        "y": 1140,
+        "wires": [
+            [
+                "c271bc9a185a023e"
+            ]
+        ]
+    },
+    {
+        "id": "c271bc9a185a023e",
+        "type": "serial out",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Pico in",
+        "serial": "d990acd935fa5ee1",
+        "x": 310,
+        "y": 1140,
+        "wires": []
+    },
+    {
+        "id": "5df46f61b798c578",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "254c1222fe786444",
+        "name": "Func update dbs",
+        "func": "var todayDate = msg.output;\n\nfunction getToday() {\n   var formatoDataHora = new Intl.DateTimeFormat('en-US', {\n      timeZone: 'America/Sao_Paulo',\n      hour12: true,\n      year: 'numeric',\n      month: 'numeric',\n      day: 'numeric'\n   });\n\n   return formatoDataHora.format(new Date());\n}\n\nfunction updateDbFreq(todayDate) {\n   var dbFreq = flow.get('dbFreqDia');\n   if (!dbFreq[todayDate]) {\n      dbFreq[todayDate] = 1;\n   } else if (dbFreq[todayDate]) {\n      dbFreq[todayDate] += 1;\n   }\n   flow.set('dbFreqDia', dbFreq);\n}\n\nfunction updateDbFreqHospede() {\n   var rerservaAtual = flow.get('reservaAtual');\n   if (rerservaAtual) {\n      var dbFreqHospede = flow.get('dbFreqHospede');\n      dbFreqHospede[rerservaAtual].frequenciaUtilizacao += 1;\n      flow.set('dbFreqHospede', dbFreqHospede);\n   }\n}\n\nupdateDbFreq(getToday());\nupdateDbFreqHospede();\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1210,
+        "y": 1360,
+        "wires": [
+            [
+                "bae3e8dd629afee8",
+                "9768aa6d980a754c"
+            ]
+        ]
+    },
+    {
+        "id": "4331e941644a619e",
+        "type": "ui_chart",
+        "z": "6cbf86e7e5ed9987",
+        "g": "254c1222fe786444",
+        "name": "Graph Freq",
+        "group": "7ee0efb2fae7a6fb",
+        "order": 2,
+        "width": 14,
+        "height": "7",
+        "label": "Quantidade de Acessos / Dia",
+        "chartType": "bar",
+        "legend": "true",
+        "xformat": "D/M",
+        "interpolate": "linear",
+        "nodata": "OI",
+        "dot": true,
+        "ymin": "0",
+        "ymax": "20",
+        "removeOlder": "30",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": true,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1670,
+        "y": 1340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9d880ce224917216",
+        "type": "comment",
+        "z": "6cbf86e7e5ed9987",
+        "g": "254c1222fe786444",
+        "name": "Grafico e Tabela de Frequência",
+        "info": "",
+        "x": 1450,
+        "y": 1320,
+        "wires": []
+    },
+    {
+        "id": "465aca76de4c32a3",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Func guarda info hospedagem",
+        "func": "var jsonInit = {\n    \"titularDaReserva\": null,\n    \"cpf\": null,\n    \"dateTimeCheckIn\": null,\n    \"dateTimeCheckOut\": null\n}\n\nvar infosHospedagem = flow.get('infosHospedagem') || jsonInit;\nvar infoTopicChanged = msg.topic;\ninfosHospedagem[infoTopicChanged] = msg.payload;\nflow.set('infosHospedagem', infosHospedagem);\n\n\nif (flow.get('statusOcupacao')) {\n    msg.enabled = true;\n} else {\n    msg.enabled = false;\n    if (infosHospedagem['titularDaReserva'] && infosHospedagem['cpf']) {\n        var dateTimeCheckIn = infosHospedagem['dateTimeCheckIn'];\n        var dateTimeCheckOut = infosHospedagem['dateTimeCheckOut'];\n        if (!Number.isNaN(dateTimeCheckOut)) {\n            if (dateTimeCheckOut >= Date.now() && dateTimeCheckOut <= Date.now() + 999999999) {\n                msg.enabled = true;\n            }\n        }\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 930,
+        "y": 1700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c7236dbdbf5da1e7",
+        "type": "ui_text_input",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Input titular da reserva",
+        "label": "Titular da Reserva",
+        "tooltip": "",
+        "group": "0ef534cc94be64a2",
+        "order": 1,
+        "width": 4,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "100",
+        "topic": "titularDaReserva",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
+        "x": 360,
+        "y": 1660,
+        "wires": [
+            [
+                "465aca76de4c32a3"
+            ]
+        ]
+    },
+    {
+        "id": "875f09eb0d723408",
+        "type": "ui_button",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Btn check-in/ check-out",
+        "group": "0ef534cc94be64a2",
+        "order": 5,
+        "width": 8,
+        "height": 1,
+        "passthru": false,
+        "label": "Check-in / Check-out",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "btnCheckInOut",
+        "topicType": "str",
+        "x": 370,
+        "y": 1820,
+        "wires": [
+            [
+                "128d196e7a2c59c0"
+            ]
+        ]
+    },
+    {
+        "id": "a8429c617bdf1ff0",
+        "type": "ui_text_input",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Datetime check-out",
+        "label": "Check-Out",
+        "tooltip": "",
+        "group": "0ef534cc94be64a2",
+        "order": 4,
+        "width": 4,
+        "height": 1,
+        "passthru": true,
+        "mode": "datetime-local",
+        "delay": "100",
+        "topic": "dateTimeCheckOut",
+        "sendOnBlur": false,
+        "className": "",
+        "topicType": "str",
+        "x": 350,
+        "y": 1780,
+        "wires": [
+            [
+                "4443d4d10c2578a7"
+            ]
+        ]
+    },
+    {
+        "id": "23e98e008ac96768",
+        "type": "ui_text_input",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Input cpf",
+        "label": "CPF",
+        "tooltip": "",
+        "group": "0ef534cc94be64a2",
+        "order": 2,
+        "width": 4,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "100",
+        "topic": "cpf",
+        "sendOnBlur": true,
+        "className": "fundo-preto",
+        "topicType": "str",
+        "x": 320,
+        "y": 1700,
+        "wires": [
+            [
+                "d7ef69ead33bbe83"
+            ]
+        ]
+    },
+    {
+        "id": "41784f67acb87864",
+        "type": "ui_text_input",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Datetime check-in",
+        "label": "Check-in",
+        "tooltip": "",
+        "group": "0ef534cc94be64a2",
+        "order": 3,
+        "width": 4,
+        "height": 1,
+        "passthru": true,
+        "mode": "datetime-local",
+        "delay": "100",
+        "topic": "dateTimeCheckIn",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
+        "x": 350,
+        "y": 1740,
+        "wires": [
+            [
+                "4443d4d10c2578a7"
+            ]
+        ]
+    },
+    {
+        "id": "6d31659c78373710",
+        "type": "ui_toast",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "position": "prompt",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "Liberação de Acesso",
+        "name": "Input senha check-in-out",
+        "x": 850,
+        "y": 1820,
+        "wires": [
+            [
+                "a0e5cd9ee04ebb7d"
+            ]
+        ]
+    },
+    {
+        "id": "315a94eb92b83294",
+        "type": "complete",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "",
+        "scope": [
+            "b7b1c600c88f52a6",
+            "1523853a5189a066"
+        ],
+        "uncaught": false,
+        "x": 130,
+        "y": 1680,
+        "wires": [
+            [
+                "c7236dbdbf5da1e7",
+                "23e98e008ac96768",
+                "a8429c617bdf1ff0",
+                "970700da753644ca"
+            ]
+        ]
+    },
+    {
+        "id": "128d196e7a2c59c0",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Func set check way",
+        "func": "if (flow.get('statusOcupacao')){\n   msg.payload = 'Digite a senha para o check-out';\n   msg.flowCheck = 'checkout';\n}else{\n   msg.payload = 'Digite a senha para o check-in';\n   msg.flowCheck = 'checkin';\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 1820,
+        "wires": [
+            [
+                "6d31659c78373710"
+            ]
+        ]
+    },
+    {
+        "id": "f0aa9a8312fc073d",
+        "type": "complete",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "",
+        "scope": [
+            "465aca76de4c32a3"
+        ],
+        "uncaught": false,
+        "x": 130,
+        "y": 1800,
+        "wires": [
+            [
+                "875f09eb0d723408",
+                "970700da753644ca"
+            ]
+        ]
+    },
+    {
+        "id": "a0e5cd9ee04ebb7d",
+        "type": "switch",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "admin",
+                "vt": "str"
+            },
+            {
+                "t": "neq",
+                "v": "Cancel",
+                "vt": "str"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 1030,
+        "y": 1820,
+        "wires": [
+            [
+                "0e25b8269d1d6ed6"
+            ],
+            [
+                "39cee71c65753b1c"
+            ]
+        ]
+    },
+    {
+        "id": "39cee71c65753b1c",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Set open door msg not auth",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Acesso negado",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1220,
+        "y": 1920,
+        "wires": [
+            [
+                "2f250fc02e770a78"
+            ]
+        ]
+    },
+    {
+        "id": "2f250fc02e770a78",
+        "type": "ui_toast",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Msg not auth",
+        "x": 1450,
+        "y": 1920,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d7ef69ead33bbe83",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Func formar cpf",
+        "func": "// Função para adicionar pontos e traço ao CPF em tempo real\nvar adicionarPontosTraco = function(/** @type {string} */ cpf) {\n    if (cpf.length >= 14) {\n        return cpf.substring(0, 14);\n    }\n    // Remove caracteres não numéricos\n    const cpfSemFormatacao = cpf.replace(/\\D/g, '');\n\n    // Aplica formatação\n    let cpfFormatado = '';\n    if (cpfSemFormatacao.length <= 3) {\n        cpfFormatado = cpfSemFormatacao;\n    } else if (cpfSemFormatacao.length <= 6) {\n        cpfFormatado = cpfSemFormatacao.replace(/^(\\d{3})(\\d{0,3})$/, '$1.$2');\n    } else if (cpfSemFormatacao.length <= 9) {\n        cpfFormatado = cpfSemFormatacao.replace(/^(\\d{3})(\\d{3})(\\d{0,3})$/, '$1.$2.$3');\n    } else {\n        cpfFormatado = cpfSemFormatacao.replace(/^(\\d{3})(\\d{3})(\\d{3})(\\d{0,2})$/, '$1.$2.$3-$4');\n    }\n\n    return cpfFormatado;\n};\n\n// Exemplo de uso com msg.payload\nmsg.payload = adicionarPontosTraco(msg.payload);\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 1700,
+        "wires": [
+            [
+                "23e98e008ac96768",
+                "465aca76de4c32a3"
+            ]
+        ]
+    },
+    {
+        "id": "fcc20429815f19f5",
+        "type": "ui_text",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "group": "41aee0a47a335a5c",
+        "order": 2,
+        "width": 9,
+        "height": 1,
+        "name": "",
+        "label": "",
+        "format": "{{msg.showLimitDate}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1750,
+        "y": 1760,
+        "wires": []
+    },
+    {
+        "id": "4443d4d10c2578a7",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Func convert datetime",
+        "func": "msg.payload = msg.payload + (3 * 60 * 60 * 1000);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 1760,
+        "wires": [
+            [
+                "465aca76de4c32a3"
+            ]
+        ]
+    },
+    {
+        "id": "5e94863c9da2b3ab",
+        "type": "delay",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Delay check-out",
+        "pauseType": "delayv",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1580,
+        "y": 1820,
+        "wires": [
+            [
+                "a71f06a446ad1ac0"
+            ]
+        ]
+    },
+    {
+        "id": "a71f06a446ad1ac0",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Set checkout msg pico",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"tipo\":\"checkout\"}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1790,
+        "y": 1820,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9d8aa7fcbb9b6747",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Func reset flow card list",
+        "func": "function formatarTimestamp(timestamp, optionFormat = 'en-US') {\n    return new Date(timestamp).toLocaleString(optionFormat, {\n        year: 'numeric',\n        month: 'numeric',\n        day: 'numeric',\n        hour: 'numeric',\n        minute: 'numeric',\n        hour12: true,\n    });\n}\n\nvar listCardsAllowed = msg.payload.list_cards;\nflow.set('cardList', listCardsAllowed);\n\nvar statusOcupacao = flow.get('statusOcupacao')\nif (statusOcupacao) {\n    var dateTimeCheckOut = flow.get('infosHospedagem')['dateTimeCheckOut'];\n    var timestampMsg = formatarTimestamp(dateTimeCheckOut - (4 * 60 * 60 * 1000));\n    msg.showLimitDate = `Cartões Bloqueados: ${timestampMsg}`\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2285f276b0202fa2",
+        "type": "complete",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "",
+        "scope": [
+            "9d8aa7fcbb9b6747"
+        ],
+        "uncaught": false,
+        "x": 1610,
+        "y": 1720,
+        "wires": [
+            [
+                "fcc20429815f19f5"
+            ]
+        ]
+    },
+    {
+        "id": "0e25b8269d1d6ed6",
+        "type": "switch",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Swicth auth checks",
+        "property": "flowCheck",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "checkout",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "checkin",
+                "vt": "str"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 1190,
+        "y": 1800,
+        "wires": [
+            [
+                "1523853a5189a066"
+            ],
+            [
+                "b7b1c600c88f52a6"
+            ]
+        ]
+    },
+    {
+        "id": "b7b1c600c88f52a6",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Func check-in",
+        "func": "var formatoDataHora = new Intl.DateTimeFormat('en-US', {\n    timeZone: 'America/Sao_Paulo',\n    hour12: true,\n    year: 'numeric',\n    month: 'numeric',\n    day: 'numeric',\n    hour: 'numeric',\n    minute: 'numeric'\n});\n\nfunction getLatestReserva() {\n    var dbFreqHospede = flow.get('dbFreqHospede');\n    var chaves = Object.keys(dbFreqHospede);\n    var ultimaChave = chaves[chaves.length - 1];\n    var ultimaReserva = dbFreqHospede[ultimaChave];\n    return ultimaReserva['reserva'];\n}\n\n\nfunction converterMilissegundosParaDiasEHoras(totalMilissegundos) {\n    // Calcula os dias, horas e minutos\n    const dias = Math.floor(totalMilissegundos / (1000 * 60 * 60 * 24));\n    const horas = Math.ceil((totalMilissegundos % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n\n    return `${dias} dia(s) e ${horas} hora(s)`;\n}\n\n\nfunction setNewHospede() {\n    var dbFreqHospede = flow.get('dbFreqHospede');\n    var infosHospedagem = flow.get('infosHospedagem');\n    var novaReserva = getLatestReserva() + 1;\n\n    dbFreqHospede[novaReserva] = {\n        reserva: novaReserva,\n        nome: infosHospedagem['titularDaReserva'],\n        cpf: infosHospedagem['cpf'],\n        checkin: formatoDataHora.format(infosHospedagem['dateTimeCheckIn']),\n        checkout: \"Em aberto\",\n        dias: \"Em aberto\",\n        frequenciaUtilizacao: 0\n    }\n\n    flow.set('reservaAtual', novaReserva);\n    flow.set('dbFreqHospede', dbFreqHospede);\n}\n\n// Exibir Mensagem Limite Acesso\nvar dateTimeCheckOut = flow.get('infosHospedagem')['dateTimeCheckOut']\n//var timestampMsg = formatoDataHora.format(dateTimeCheckOut - (4 * 60 * 60 * 1000));\nvar timestampMsg = formatoDataHora.format(dateTimeCheckOut);\n\nmsg.showLimitDate = `Acesso até: ${timestampMsg}`\n\n\nmsg.delay = dateTimeCheckOut - Date.now() // Setar delay para bloqueio automatico\nflow.set('ubi_horas_checkout', msg.delay / 3600000)\ndelete msg.payload; // para nao preencher os valores dos inputs com admin\nmsg.enabled = false; // ativar inputs novamente\n\nsetNewHospede(); // Adicionar novo hospede no banco de dados\nflow.set('statusOcupacao', true); // Setar status de ocupacao para true\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1380,
+        "y": 1820,
+        "wires": [
+            [
+                "5e94863c9da2b3ab",
+                "fcc20429815f19f5",
+                "b3ce9c9436af134b"
+            ]
+        ]
+    },
+    {
+        "id": "1523853a5189a066",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Func check-out",
+        "func": "var formatoDataHora = new Intl.DateTimeFormat('en-US', {\n    timeZone: 'America/Sao_Paulo',\n    hour12: true,\n    year: 'numeric',\n    month: 'numeric',\n    day: 'numeric',\n    hour: 'numeric',\n    minute: 'numeric'\n});\n\n\n/**\n* @param {number} totalMilissegundos\n*/\nfunction converterMilissegundosParaDiasEHoras(totalMilissegundos) {\n    // Calcula os dias, horas e minutos\n    const dias = Math.floor(totalMilissegundos / (1000 * 60 * 60 * 24));\n    const horas = Math.ceil((totalMilissegundos % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n\n    return `${dias} dia(s) e ${horas} hora(s)`;\n}\n\n\nfunction updateHospedeCheckout() {\n    var dbFreqHospede = flow.get('dbFreqHospede');\n    var infosHospedagem = flow.get('infosHospedagem');\n    var reservaAtual = flow.get('reservaAtual');\n    var todayDate = new Date();\n    dbFreqHospede[reservaAtual].checkout = formatoDataHora.format(todayDate);\n    dbFreqHospede[reservaAtual].dias = converterMilissegundosParaDiasEHoras(todayDate.getTime() - infosHospedagem['dateTimeCheckIn']),\n\n        flow.set('dbFreqHospede', dbFreqHospede);\n}\n\nconst jsonInit = {\n    \"titularDaReserva\": null,\n    \"cpf\": null,\n    \"dateTimeCheckIn\": null,\n    \"dateTimeCheckOut\": null\n}\n\nupdateHospedeCheckout(); // Atualizar checkout do hospede\nmsg.payload = ''; // para nao preencher os valores dos inputs com admin\nmsg.showLimitDate = ''; // zerar msg bloqueio automatico\nmsg.reset = true; // parar delay de checkin anterior\nmsg.enabled = true; // ativar inputs novamente\nflow.set('infosHospedagem', jsonInit);\nflow.set('statusOcupacao', false);\nflow.set('reservaAtual', null);\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1380,
+        "y": 1760,
+        "wires": [
+            [
+                "fcc20429815f19f5",
+                "5e94863c9da2b3ab",
+                "a71f06a446ad1ac0"
+            ]
+        ]
+    },
+    {
+        "id": "c58bed48d1b59861",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "set mockFreq",
+        "func": "// Função para gerar um número aleatório entre min e max (inclusive)\nfunction getRandomInt(min, max) {\n   return Math.floor(Math.random() * (max - min + 1)) + min;\n}\n\nfunction generateRandomCPF() {\n   let cpf = '';\n   for (let i = 0; i < 11; i++) {\n      cpf += Math.floor(Math.random() * 10);\n   }\n   cpf = cpf.substring(0, 3) + '.' + cpf.substring(3, 6) + '.' + cpf.substring(6, 9) + '-' + cpf.substring(9);\n   return cpf;\n}\n\n\nfunction formatarDataParaString(data) {\n   const dia = String(data.getDate()).padStart(2, '0');\n   const mes = String(data.getMonth() + 1).padStart(2, '0');\n   const ano = data.getFullYear();\n   return `${mes}/${dia}/${ano}`;\n}\n\nfunction converterMilissegundosParaDiasEHoras(totalMilissegundos) {\n   // Calcula os dias, horas e minutos\n   const dias = Math.floor(totalMilissegundos / (1000 * 60 * 60 * 24));\n   const horas = Math.ceil((totalMilissegundos % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n\n   return `${dias} dia(s) e ${horas} hora(s)`;\n}\n\nfunction obterDiasEntreDatas(dataInicio, dataFim) {\n   const listaDias = [];\n\n   // Define as datas em milissegundos\n   const dataAtual = new Date(dataInicio);\n   const dataFinal = new Date(dataFim);\n\n   // Itera sobre as datas e adiciona cada dia à lista\n   while (dataAtual <= dataFinal) {\n      listaDias.push(formatarDataParaString(dataAtual)); // Adiciona a data formatada à lista\n      dataAtual.setDate(dataAtual.getDate() + 1); // Avança para o próximo dia\n   }\n\n   return listaDias;\n}\n\nvar formatoDataHora = new Intl.DateTimeFormat('en-US', {\n   timeZone: 'America/Sao_Paulo',\n   hour12: true,\n   year: 'numeric',\n   month: 'numeric',\n   day: 'numeric',\n   hour: 'numeric',\n   minute: 'numeric'\n});\n\nfunction montarMocks() {\n   // Criar um mock para a estrutura\n   var chaveCheckin, chaveCheckout, chaveFreqUtilizacao, chaveNome, chaveDias, chaveCpf, tempoHospedagem, listaDias;\n   var dbFreqDia = {};\n   var dbFreqHospede = {};\n   var nomes = ['Alice', 'Bob', 'Charlie', 'David', 'Emma'];\n   var numeroReserva = 1;\n\n   var dataInicial = new Date();\n   dataInicial.setMonth(dataInicial.getMonth() - 12); // Data inicial: 1 mês atrás\n\n   var dataFinal = new Date();     // Data final: hoje\n\n   // Preencher o objeto dbFreq com valores aleatórios\n   while (dataInicial <= dataFinal) {\n\n      chaveCheckin = formatoDataHora.format(dataInicial); // Check-in é a data base\n      tempoHospedagem = getRandomInt(86400000, 432000000); // Entre 1 e 5 dias\n      chaveCheckout = formatoDataHora.format(new Date(dataInicial.getTime() + tempoHospedagem)); // Check-out é entre 1 e 5 dias depois do check-in\n      chaveCpf = generateRandomCPF(); // Gerar CPF aleatório\n      chaveNome = nomes[Math.floor(Math.random() * nomes.length)];\n\n      // Frequência de utilização entre check-in e check-out\n      listaDias = obterDiasEntreDatas(dataInicial, chaveCheckout);\n      // chaveDias = listaDias.length;\n      chaveDias = converterMilissegundosParaDiasEHoras(tempoHospedagem);\n\n      chaveFreqUtilizacao = 0; // Resetar a frequência para cada reserva\n\n      for (const dia of listaDias) {\n         dbFreqDia[dia] = getRandomInt(0, 20);\n         chaveFreqUtilizacao += dbFreqDia[dia];\n      }\n\n      // Preencher o objeto com informações\n      dbFreqHospede[numeroReserva] = {\n         reserva: numeroReserva,\n         nome: chaveNome,\n         cpf: chaveCpf,\n         checkin: chaveCheckin,\n         checkout: chaveCheckout,\n         dias: chaveDias,\n         frequenciaUtilizacao: chaveFreqUtilizacao\n      };\n\n      numeroReserva++;\n\n      // Incrementar a data para o próximo momento depois do checkout anterior\n      dataInicial = new Date(chaveCheckout);\n      dataInicial.setDate(dataInicial.getDate() + getRandomInt(1, 3)); // Incrementar de 1 a 3 dias\n   }\n\n   return [dbFreqDia, dbFreqHospede];\n}\n\nif (!flow.get('dbFreqDia') || !flow.get('dbFreqHospede')){\n   var output = montarMocks();\n   flow.set('dbFreqDia', output[0]);\n   flow.set('dbFreqHospede', output[1]);\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1060,
+        "y": 940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b36f6c764f67f687",
+        "type": "complete",
+        "z": "6cbf86e7e5ed9987",
+        "g": "254c1222fe786444",
+        "name": "",
+        "scope": [
+            "c58bed48d1b59861"
+        ],
+        "uncaught": false,
+        "x": 1190,
+        "y": 1400,
+        "wires": [
+            [
+                "bae3e8dd629afee8",
+                "9768aa6d980a754c"
+            ]
+        ]
+    },
+    {
+        "id": "bae3e8dd629afee8",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "254c1222fe786444",
+        "name": "Func update visual graph",
+        "func": "// ------------------------ GRAFICO ------------------------\nvar dbFreqDia = flow.get('dbFreqDia');\n\nmsg.payload = [{\n   \"series\": [\"N° vezes\"],\n   \"data\": [Object.values(dbFreqDia).slice(-30)],\n   \"labels\": Object.keys(dbFreqDia).slice(-30)\n}];\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1450,
+        "y": 1380,
+        "wires": [
+            [
+                "4331e941644a619e"
+            ]
+        ]
+    },
+    {
+        "id": "9c4ca1292e45e140",
+        "type": "ui_table",
+        "z": "6cbf86e7e5ed9987",
+        "g": "254c1222fe786444",
+        "group": "7ee0efb2fae7a6fb",
+        "name": "Tabela de Controle",
+        "order": 3,
+        "width": 9,
+        "height": "5",
+        "columns": [
+            {
+                "field": "Reserva",
+                "title": "Reserva",
+                "width": "20%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "Nome",
+                "title": "Nome",
+                "width": "25%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "Dias Hospedados",
+                "title": "Dias Hospedados",
+                "width": "35%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "Acessos",
+                "title": "Acessos",
+                "width": "20%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 0,
+        "cts": false,
+        "x": 1690,
+        "y": 1420,
+        "wires": []
+    },
+    {
+        "id": "9768aa6d980a754c",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "254c1222fe786444",
+        "name": "Func update visual table",
+        "func": "// ------------------------ TABELA ------------------------\n\nfunction transformarEstrutura(jsonObj) {\n    const resultado = [];\n\n    for (const chave in jsonObj) {\n        if (jsonObj.hasOwnProperty(chave)) {\n            const reserva = jsonObj[chave];\n\n            const novaEntrada = {\n                \"Reserva\": `0000${reserva.reserva}`,\n                \"Nome\": reserva.nome,\n                \"Dias Hospedados\": reserva.dias,\n                \"Acessos\": reserva.frequenciaUtilizacao\n            };\n\n            resultado.push(novaEntrada);\n        }\n    }\n\n    return resultado.reverse();\n}\nvar dbFreqHospede = flow.get('dbFreqHospede');\n\nmsg.payload = transformarEstrutura(dbFreqHospede)\nmsg.enabled = true; // ativar inputs novamente\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1450,
+        "y": 1420,
+        "wires": [
+            [
+                "9c4ca1292e45e140",
+                "c763313caf9b6810",
+                "7f930cb8d1e47e1d"
+            ]
+        ]
+    },
+    {
+        "id": "c763313caf9b6810",
+        "type": "ui_text",
+        "z": "6cbf86e7e5ed9987",
+        "g": "254c1222fe786444",
+        "group": "7ee0efb2fae7a6fb",
+        "order": 1,
+        "width": 9,
+        "height": 1,
+        "name": "",
+        "label": "Tabela de Controle de Hóspedes",
+        "format": "",
+        "layout": "row-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "21",
+        "color": "#000000",
+        "x": 1740,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "878906631ea59664",
+        "type": "complete",
+        "z": "6cbf86e7e5ed9987",
+        "g": "254c1222fe786444",
+        "name": "",
+        "scope": [
+            "b7b1c600c88f52a6",
+            "1523853a5189a066"
+        ],
+        "uncaught": false,
+        "x": 1190,
+        "y": 1440,
+        "wires": [
+            [
+                "9768aa6d980a754c"
+            ]
+        ]
+    },
+    {
+        "id": "529af6313a66613a",
+        "type": "comment",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "Input Informações Usuários",
+        "info": "",
+        "x": 880,
+        "y": 1580,
+        "wires": []
+    },
+    {
+        "id": "970700da753644ca",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "function 1",
+        "func": "msg.payload = new Date().getTime() - (3 * 60 * 60 * 1000);\nmsg.enabled = false;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 140,
+        "y": 1740,
+        "wires": [
+            [
+                "41784f67acb87864"
+            ]
+        ]
+    },
+    {
+        "id": "c07e0f56fcbd20ad",
+        "type": "inject",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 930,
+        "y": 860,
+        "wires": [
+            [
+                "c58bed48d1b59861"
+            ]
+        ]
+    },
+    {
+        "id": "59dc8987142ed2c8",
+        "type": "inject",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "",
+        "props": [
+            {
+                "p": "enabled",
+                "v": "true",
+                "vt": "bool"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 130,
+        "y": 1620,
+        "wires": [
+            [
+                "c7236dbdbf5da1e7",
+                "23e98e008ac96768",
+                "41784f67acb87864",
+                "a8429c617bdf1ff0"
+            ]
+        ]
+    },
+    {
+        "id": "6c5f4bf9cd81a56d",
+        "type": "complete",
+        "z": "6cbf86e7e5ed9987",
+        "g": "96cc7e259620a337",
+        "name": "",
+        "scope": [
+            "2797ace110819d99"
+        ],
+        "uncaught": false,
+        "x": 170,
+        "y": 2760,
+        "wires": [
+            [
+                "3afa011321376e97"
+            ]
+        ]
+    },
+    {
+        "id": "3afa011321376e97",
+        "type": "rbe",
+        "z": "6cbf86e7e5ed9987",
+        "g": "96cc7e259620a337",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 330,
+        "y": 2760,
+        "wires": [
+            [
+                "25ceb8a358772fd1"
+            ]
+        ]
+    },
+    {
+        "id": "3d7b4da0ab6a97dd",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "96cc7e259620a337",
+        "name": "Func trata ubi",
+        "func": "if (msg.ubidots){\n    var label = msg.ubidots.topic;\n    var value = msg.ubidots.value;\n\n    msg.payload = {\n        [label]: value,\n    };\n\n    msg.payload.ubidotsDeviceLabel = \"Quarto001\";\n\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 2760,
+        "wires": [
+            [
+                "90b547b215cc99e8"
+            ]
+        ]
+    },
+    {
+        "id": "90b547b215cc99e8",
+        "type": "ubidots_out",
+        "z": "6cbf86e7e5ed9987",
+        "g": "96cc7e259620a337",
+        "name": "",
+        "token": "BBUS-2SCmButbgwcMpTA0bXi4v8NT4u3HpW",
+        "label_device": "",
+        "device_label": "Quarto001",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 890,
+        "y": 2760,
+        "wires": []
+    },
+    {
+        "id": "25ceb8a358772fd1",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "96cc7e259620a337",
+        "name": "Func ubi status",
+        "func": "if (msg.payload.tipo == 'control_door' || msg.payload.tipo == 'intrusion') {\n    msg.ubidots = { \n        topic: 'status' \n    };\n\n    if (msg.payload.status == 'closed'|| msg.payload.status == 'ok') {\n        msg.ubidots.value = 0;\n    } else if (msg.payload.status == 'opened') {\n        msg.ubidots.value = 1;\n    } else if (msg.payload.status == 'nok') {\n        msg.ubidots.value = 2;\n    }\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 2760,
+        "wires": [
+            [
+                "3d7b4da0ab6a97dd"
+            ]
+        ]
+    },
+    {
+        "id": "bf86d38985f2f87e",
+        "type": "ubidots_in",
+        "z": "6cbf86e7e5ed9987",
+        "g": "9f0287343a753e5f",
+        "tier": "business",
+        "name": "Ubidots in",
+        "token": "BBUS-2SCmButbgwcMpTA0bXi4v8NT4u3HpW",
+        "device_label": "Quarto001",
+        "tls_checkbox_in": true,
+        "custom_topic_checkbox": false,
+        "label_variable_1": "remote_access",
+        "label_variable_2": "status",
+        "label_variable_3": "",
+        "label_variable_4": "",
+        "label_variable_5": "",
+        "label_variable_6": "",
+        "label_variable_7": "",
+        "label_variable_8": "",
+        "label_variable_9": "",
+        "label_variable_10": "",
+        "checkbox_variable_1_last_value": true,
+        "checkbox_variable_2_last_value": true,
+        "checkbox_variable_3_last_value": true,
+        "checkbox_variable_4_last_value": true,
+        "checkbox_variable_5_last_value": true,
+        "checkbox_variable_6_last_value": true,
+        "checkbox_variable_7_last_value": true,
+        "checkbox_variable_8_last_value": true,
+        "checkbox_variable_9_last_value": true,
+        "checkbox_variable_10_last_value": true,
+        "x": 160,
+        "y": 2140,
+        "wires": [
+            [
+                "b923824b01420781"
+            ]
+        ]
+    },
+    {
+        "id": "b8b2f1310a7d6bb4",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "9f0287343a753e5f",
+        "name": "Set ubi remote access",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"tipo\":\"door\",\"valor\":\"true\"}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 2140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "83febe49b4507792",
+        "type": "complete",
+        "z": "6cbf86e7e5ed9987",
+        "g": "96cc7e259620a337",
+        "name": "",
+        "scope": [
+            "b33844ad9a66bc32",
+            "b6433afe4498a4da",
+            "7f930cb8d1e47e1d",
+            "08acde78b650a6e2"
+        ],
+        "uncaught": false,
+        "x": 490,
+        "y": 2720,
+        "wires": [
+            [
+                "3d7b4da0ab6a97dd"
+            ]
+        ]
+    },
+    {
+        "id": "b6433afe4498a4da",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "Set ubi msg porta liberada",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ubidots.topic",
+                "pt": "msg",
+                "to": "remote_access",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "ubidots.value",
+                "pt": "msg",
+                "to": "1",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 980,
+        "y": 1080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b3ce9c9436af134b",
+        "type": "debug",
+        "z": "6cbf86e7e5ed9987",
+        "g": "743ba4ba4087e42f",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "delay",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1640,
+        "y": 1900,
+        "wires": []
+    },
+    {
+        "id": "828c24d45e1f1816",
+        "type": "status",
+        "z": "6cbf86e7e5ed9987",
+        "g": "d19ba5bab6a456c8",
+        "name": "",
+        "scope": [
+            "c828cc25f95efdec"
+        ],
+        "x": 280,
+        "y": 2500,
+        "wires": [
+            [
+                "78d941e44fe5e1d9"
+            ]
+        ]
+    },
+    {
+        "id": "78d941e44fe5e1d9",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "d19ba5bab6a456c8",
+        "name": "function 3",
+        "func": "var color_status = msg.status.fill;\n\nmsg.payload = {\n    [\"status\"]: color_status === 'green' ? 4 : 3\n};\n\nmsg.payload.ubidotsDeviceLabel = \"Quarto001\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 2500,
+        "wires": [
+            [
+                "ada76f90cee42948"
+            ]
+        ]
+    },
+    {
+        "id": "ada76f90cee42948",
+        "type": "ubidots_out",
+        "z": "6cbf86e7e5ed9987",
+        "g": "d19ba5bab6a456c8",
+        "name": "",
+        "token": "BBUS-2SCmButbgwcMpTA0bXi4v8NT4u3HpW",
+        "label_device": "",
+        "device_label": "Quarto001",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 790,
+        "y": 2500,
+        "wires": []
+    },
+    {
+        "id": "c75a2a606888c06c",
+        "type": "inject",
+        "z": "6cbf86e7e5ed9987",
+        "g": "d19ba5bab6a456c8",
+        "name": "green",
+        "props": [
+            {
+                "p": "status",
+                "v": "{       \"fill\": \"green\",       \"shape\": \"dot\",       \"text\": \"node-red:common.status.connected\",       \"source\": {          \"id\": \"c828cc25f95efdec\",          \"type\": \"serial in\",          \"name\": \"Pico out\"       } }",
+                "vt": "json"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 450,
+        "y": 2480,
+        "wires": [
+            [
+                "78d941e44fe5e1d9"
+            ]
+        ]
+    },
+    {
+        "id": "7e1348bfa5ec6302",
+        "type": "inject",
+        "z": "6cbf86e7e5ed9987",
+        "g": "d19ba5bab6a456c8",
+        "name": "red",
+        "props": [
+            {
+                "p": "status",
+                "v": "{       \"fill\": \"red\",       \"shape\": \"dot\",       \"text\": \"node-red:common.status.connected\",       \"source\": {          \"id\": \"c828cc25f95efdec\",          \"type\": \"serial in\",          \"name\": \"Pico out\"       } }",
+                "vt": "json"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 450,
+        "y": 2540,
+        "wires": [
+            [
+                "78d941e44fe5e1d9"
+            ]
+        ]
+    },
+    {
+        "id": "d13e85e3cdd36cf4",
+        "type": "complete",
+        "z": "6cbf86e7e5ed9987",
+        "g": "d19ba5bab6a456c8",
+        "name": "",
+        "scope": [
+            "d530bf66483f21fb"
+        ],
+        "uncaught": false,
+        "x": 270,
+        "y": 2420,
+        "wires": [
+            [
+                "4658226e59fe0610"
+            ]
+        ]
+    },
+    {
+        "id": "4658226e59fe0610",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "d19ba5bab6a456c8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "status",
+                "pt": "msg",
+                "to": "{       \"fill\": \"green\"}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 440,
+        "y": 2420,
+        "wires": [
+            [
+                "78d941e44fe5e1d9"
+            ]
+        ]
+    },
+    {
+        "id": "e0b2d20c2cf08271",
+        "type": "comment",
+        "z": "6cbf86e7e5ed9987",
+        "g": "de63670762df6635",
+        "name": "Ubidots: Flow Status indicator",
+        "info": "",
+        "x": 540,
+        "y": 2300,
+        "wires": []
+    },
+    {
+        "id": "7ddaf3f16ebab346",
+        "type": "trigger",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cb43884c90f26473",
+        "name": "",
+        "op1": "1",
+        "op2": "0",
+        "op1type": "str",
+        "op2type": "str",
+        "duration": "-1",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "s",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 320,
+        "y": 2980,
+        "wires": [
+            [
+                "59c5f58a48eb0748"
+            ]
+        ]
+    },
+    {
+        "id": "1b78dc517caaa949",
+        "type": "complete",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cb43884c90f26473",
+        "name": "",
+        "scope": [
+            "7f930cb8d1e47e1d"
+        ],
+        "uncaught": false,
+        "x": 150,
+        "y": 2980,
+        "wires": [
+            [
+                "7ddaf3f16ebab346"
+            ]
+        ]
+    },
+    {
+        "id": "59c5f58a48eb0748",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cb43884c90f26473",
+        "name": "function 2",
+        "func": "var dateTimeCheckOut = flow.get('infosHospedagem')['dateTimeCheckOut']\nvar tempoRestante = (dateTimeCheckOut - Date.now())/1000\n\nmsg.payload = {\n    [\"tempo_checkout\"]: tempoRestante\n};\n\nmsg.payload.ubidotsDeviceLabel = \"Quarto001\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 500,
+        "y": 2980,
+        "wires": [
+            [
+                "726ab5164bc67774"
+            ]
+        ]
+    },
+    {
+        "id": "cfb4be3c13433727",
+        "type": "ubidots_out",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cb43884c90f26473",
+        "name": "",
+        "token": "BBUS-2SCmButbgwcMpTA0bXi4v8NT4u3HpW",
+        "label_device": "",
+        "device_label": "Quarto001",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 790,
+        "y": 2980,
+        "wires": []
+    },
+    {
+        "id": "ea9a1dc78362fd64",
+        "type": "inject",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cb43884c90f26473",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 160,
+        "y": 3060,
+        "wires": [
+            [
+                "7ddaf3f16ebab346"
+            ]
+        ]
+    },
+    {
+        "id": "eb373f01991d1178",
+        "type": "comment",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cb43884c90f26473",
+        "name": "Ubidots: Flow timer Checkout",
+        "info": "",
+        "x": 440,
+        "y": 2920,
+        "wires": []
+    },
+    {
+        "id": "77351a4baaaa56cb",
+        "type": "comment",
+        "z": "6cbf86e7e5ed9987",
+        "g": "9f0287343a753e5f",
+        "name": "Ubidots: Remote access",
+        "info": "",
+        "x": 390,
+        "y": 2040,
+        "wires": []
+    },
+    {
+        "id": "5a0e79fc43d1a5ae",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "9f0287343a753e5f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "statusDoor",
+                "pt": "flow",
+                "to": "payload.status.value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 630,
+        "y": 2180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b923824b01420781",
+        "type": "function",
+        "z": "6cbf86e7e5ed9987",
+        "g": "9f0287343a753e5f",
+        "name": "function 4",
+        "func": "if (flow.get('statusDoor') != undefined && flow.get('statusDoor') != 3 && flow.get('statusDoor') != 4 && msg.payload.remote_access != undefined && msg.payload.remote_access.value == 0) {\n    msg.ubidots = {\n        saidaTipo: 1\n    };\n} else if (msg.payload.status !== undefined) {\n    // A chave 'remote_access' não está presente\n    msg.ubidots = {\n        saidaTipo: 2\n    };\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 2160,
+        "wires": [
+            [
+                "f8c8473de3bfe744"
+            ]
+        ]
+    },
+    {
+        "id": "f8c8473de3bfe744",
+        "type": "switch",
+        "z": "6cbf86e7e5ed9987",
+        "g": "9f0287343a753e5f",
+        "name": "",
+        "property": "ubidots.saidaTipo",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 470,
+        "y": 2160,
+        "wires": [
+            [
+                "b8b2f1310a7d6bb4"
+            ],
+            [
+                "5a0e79fc43d1a5ae"
+            ]
+        ]
+    },
+    {
+        "id": "d049dcc8f2bd83bc",
+        "type": "inject",
+        "z": "6cbf86e7e5ed9987",
+        "g": "9f0287343a753e5f",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{        \"remote_access\": {          \"value\": 0       } }",
+        "payloadType": "json",
+        "x": 150,
+        "y": 2060,
+        "wires": [
+            [
+                "b923824b01420781"
+            ]
+        ]
+    },
+    {
+        "id": "be40a5b47cd743d9",
+        "type": "comment",
+        "z": "6cbf86e7e5ed9987",
+        "g": "d19ba5bab6a456c8",
+        "name": "Status Offline",
+        "info": "",
+        "x": 550,
+        "y": 2380,
+        "wires": []
+    },
+    {
+        "id": "93579af329fd7253",
+        "type": "comment",
+        "z": "6cbf86e7e5ed9987",
+        "g": "96cc7e259620a337",
+        "name": "Status Online",
+        "info": "",
+        "x": 490,
+        "y": 2660,
+        "wires": []
+    },
+    {
+        "id": "7f930cb8d1e47e1d",
+        "type": "change",
+        "z": "6cbf86e7e5ed9987",
+        "g": "254c1222fe786444",
+        "name": "Set ubi numero hospede",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ubidots.topic",
+                "pt": "msg",
+                "to": "numero_hospede",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "ubidots.value",
+                "pt": "msg",
+                "to": "payload[0].Acessos",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1710,
+        "y": 1460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "249b3c740a6de961",
+        "type": "inject",
+        "z": "6cbf86e7e5ed9987",
+        "g": "254c1222fe786444",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1460,
+        "y": 1480,
+        "wires": [
+            [
+                "7f930cb8d1e47e1d"
+            ]
+        ]
+    },
+    {
+        "id": "119b84a0d2d71f31",
+        "type": "debug",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 320,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "726ab5164bc67774",
+        "type": "switch",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cb43884c90f26473",
+        "name": "",
+        "property": "payload.tempo_checkout",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "gte",
+                "v": "0",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 630,
+        "y": 2980,
+        "wires": [
+            [
+                "cfb4be3c13433727"
+            ]
+        ]
+    },
+    {
+        "id": "ebb88433cfaccd1a",
+        "type": "play audio",
+        "z": "6cbf86e7e5ed9987",
+        "g": "cacce4e44e6119c5",
+        "name": "",
+        "voice": "30",
+        "x": 1090,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "c9193d61722f1ef3",
+        "type": "ui_group",
+        "name": "Acesso às Portas",
+        "tab": "be5032921bc3d918",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d990acd935fa5ee1",
+        "type": "serial-port",
+        "serialport": "/dev/ttyACM0",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "\\n",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "41aee0a47a335a5c",
+        "type": "ui_group",
+        "name": "Cartões Autorizados",
+        "tab": "be5032921bc3d918",
+        "order": 3,
+        "disp": true,
+        "width": 9,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7ee0efb2fae7a6fb",
+        "type": "ui_group",
+        "name": "Monitoramento de Frequência de Uso",
+        "tab": "be5032921bc3d918",
+        "order": 5,
+        "disp": true,
+        "width": 23,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0ef534cc94be64a2",
+        "type": "ui_group",
+        "name": "Cadastro de Hóspedes",
+        "tab": "be5032921bc3d918",
+        "order": 1,
+        "disp": true,
+        "width": 8,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "be5032921bc3d918",
+        "type": "ui_tab",
+        "name": "Gerenciamento",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    }
+]
