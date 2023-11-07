@@ -1,30 +1,25 @@
-<h1>Gerenciamento da Fechadura Eletrônica via Node-RED</h1>
+<h1>Gerenciamento da Fechadura Eletrônica com Ubidots</h1>
 
-Este é um projeto focado no gerenciamento de uma fechadura eletrônica feita com o Raspberry Pi Pico. 
-O guia para construção da fechadura eletrônica além de suas funcionalidades e códigos-fonte estão localizados em: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico). Portanto para uma correta implementação nesta fase do gerenciamento da fechadura é necessário ter seguido todos os passos prévios mencionados.
+Este é um projeto de uma fechadura eletrônica voltada para hotéis, focado em seu gerenciamento de estado cujo seu uso é destinado ao usuário final, o hóspede.
+O guia para construção das etapas prévias do desenvolvimento desta fechadura eletrônica além de suas funcionalidades e códigos-fonte estão localizados em respectivamenet em: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico) e [🔗 Fechadura Eletrônica com Node-RED](https://github.com/FernandoHN99/FechaduraEletronica-Node-Red).Portanto para uma correta implementação nesta fase do gerenciamento é necessário ter seguido todos os passos prévios mencionados.
 
 https://github.com/FernandoHN99/FechaduraEletronica-Node-Red/assets/86134291/a0a0fde2-0bac-45c4-be40-ba9766ca2e57
 
 <h2>⚙️ Funcionalidades do Sistema</h2>
 
-<h4>🕺🏼 Monitoramento de check-in e check-out dos clientes e seus respectivos acessos.</h4>
-<h4>✅ Liberação de acesso.</h4>
-<h4>🔄 Reset da fechadura.</h4>
-<h4>💳 Gerenciamento de cartões autorizado.</h4>
-<h4>🚪 Exibição de aviso de porta aberta.</h4>
-<h4>🚨 Exibição de aviso de invasão.</h4>
+<h4>🕺🏼 Monitoramento do estado da fechadura eletrônica.</h4>
+<h4>✅ Liberação de acesso remoto.</h4>
+<h4>💳 Exibição da quantidade de cartões autorizados.</h4>
+<h4>🚪 Exibição do número de acessos relaizados na hospedagem.</h4>
+<h4>⏱️ Exibição do tempo restante para o checkout.</h4>
 
 <h2>🎬 Começando...</h2>
 
-Essas instruções permitirão que você consiga realizar uma cópia do projeto em operação em seu Node-RED para fins de desenvolvimento e teste.
+Essas instruções permitirão que você consiga realizar uma cópia desta parte do projeto em seu ambiente de desenvolvimento e teste.
 <h3>🧑🏻‍💻 Softwares Utilizados</h3>
 
  * [🔗 Node-RED](https://nodered.org/)
-
-<h3>🕹️ Hardwares Utilizados</h3>
-
-* [🔗 Raspberry Pi](
-https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
+ * [🔗 Ubidots](https://ubidots.com/)
 
 <h2>🚀 Instalação</h2>
 
@@ -35,21 +30,17 @@ https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
   </li>
 </ul>
 
-> **Observação:** Para um maior entendimento dos periféricos utilizados no Raspberry Pi Pico, acesse o [🔗 Projeto da Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico).
+> **Observação:** Para um maior entendimento dos periféricos utilizados acesse o [🔗 Projeto da Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico) e [🔗 Fechadura Eletrônica com Node-RED](https://github.com/FernandoHN99/FechaduraEletronica-Node-Red).
 
 <h2>📦 Implementação</h2>
 
 1. Implementação da fechadura Eletrônica: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico)
 
-2.  Fazer a substituição completa do código no Raspberry Pi Pico com o apresentado neste repositório, sem necessidade da cópia do arquivo flows.json (Necessário implementação correta do passo 1)
+2. Implementação da fechadura Eletrônica com node-RED: [🔗 Fechadura Eletrônica com Node-RED](https://github.com/FernandoHN99/FechaduraEletronica-Node-Red)
 
-3.  Conectar-se ao Node-RED instalado em sua máquina e instalar nele os seguintes módulos:
-    - node-red
-    - node-red-dashboard
-    - node-red-node-ui-table
-    - node-red-node-serialport
+3. Retirar todo conteúdo existente do node-RED e importar o arquivo flows.json contido neste repositório. 
 
-4. Importar o arquivo flows.json 
+4. Utilizar o link abaixo para acessar as funcionalidades mencionadas deste projeto: [🔗 Ubidots: Gerenciamento da Fechadura Eletrônica](https://stem.ubidots.com/app/dashboards/public/dashboard/5B-s1GC0hiH_6DsZ1lrEimGIbri_mtxs5O9I-VE5ctM)
 
 <h2>✒️ Autores</h2>
 
